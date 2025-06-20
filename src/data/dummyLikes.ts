@@ -24,28 +24,4 @@ export const dummyLikes = [
     bio: "“Tech geek and sci-fi fan with a passion for gaming and gadgets”",
     image: "/images/profile-3.png",
   },
-  {
-    name: "Mira Celeste",
-    age: 23,
-    gender: "♀",
-    orientation: "Straight",
-    bio: "“Fitness enthusiast who enjoys yoga, hiking, and healthy cooking.”",
-    image: "/images/profile-4.png",
-  },
-  {
-    name: "Violet Monroe",
-    age: 23,
-    gender: "♀",
-    orientation: "Straight",
-    bio: "“Creative soul who loves painting, live music, and finding inspiration everywhere.”",
-    image: "/images/profile-5.png",
-  },
-  {
-    name: "Ella Sterling",
-    age: 23,
-    gender: "♀",
-    orientation: "Straight",
-    bio: "“Music lover and amateur guitarist seeking someone to share favorite songs and laughs.”",
-    image: "/images/profile-6.png",
-  },
 ];
