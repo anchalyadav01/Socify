@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Force dark theme colors globally */
+:root {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+}
+
+/* Global Styles */
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  @apply bg-[#0e0b1a] text-white font-sans;
+}

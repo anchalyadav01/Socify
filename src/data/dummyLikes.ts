@@ -1,0 +1,51 @@
+// src/data/dummyLikes.ts
+export const dummyLikes = [
+  {
+    name: "Luna Everly",
+    age: 23,
+    gender: "♀",
+    orientation: "Straight",
+    bio: "“Adventure-seeker who loves road trips, coffee dates, and trying new recipes”",
+    image: "/images/profile-1.png",
+  },
+  {
+    name: "Seraphina Hart",
+    age: 23,
+    gender: "♀",
+    orientation: "Straight",
+    bio: "“Nature lover and bookworm who enjoys hiking, animal rescue, and quiet evenings in”",
+    image: "/images/profile-2.png",
+  },
+  {
+    name: "Aurora Belle",
+    age: 23,
+    gender: "♀",
+    orientation: "Straight",
+    bio: "“Tech geek and sci-fi fan with a passion for gaming and gadgets”",
+    image: "/images/profile-3.png",
+  },
+  {
+    name: "Mira Celeste",
+    age: 23,
+    gender: "♀",
+    orientation: "Straight",
+    bio: "“Fitness enthusiast who enjoys yoga, hiking, and healthy cooking.”",
+    image: "/images/profile-4.png",
+  },
+  {
+    name: "Violet Monroe",
+    age: 23,
+    gender: "♀",
+    orientation: "Straight",
+    bio: "“Creative soul who loves painting, live music, and finding inspiration everywhere.”",
+    image: "/images/profile-5.png",
+  },
+  {
+    name: "Ella Sterling",
+    age: 23,
+    gender: "♀",
+    orientation: "Straight",
+    bio: "“Music lover and amateur guitarist seeking someone to share favorite songs and laughs.”",
+    image: "/images/profile-6.png",
+  },
+];
