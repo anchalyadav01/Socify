@@ -1,8 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-/* Force dark theme colors globally */
 :root {
   --background: #0a0a0a;
   --foreground: #ededed;
